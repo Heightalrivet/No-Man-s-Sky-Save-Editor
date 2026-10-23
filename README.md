@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`No-Man-s-Sky-Save-Editor` · Updated: 2026-10-07
+`No-Man-s-Sky-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `no-mans-sky` `save-editor` `space` `exploration` `steam`
